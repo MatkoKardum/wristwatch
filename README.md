@@ -69,4 +69,4 @@ This project is an electronics/embedded systems project that involves firmware d
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Contact
-For questions or support, open an issue on the repository or contact matej.kardu.contact@gmail.com
+For questions or support, open an issue on the repository or contact matej.kardum.contact@gmail.com
